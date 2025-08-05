@@ -36,8 +36,8 @@ Tive dificuldade para ler corretamente os dados do usuário, principalmente o ca
 Evitar repetição de código
 Como os dois scripts usam as mesmas fórmulas, fiquei em dúvida se deveria copiar tudo ou criar um arquivo separado. No fim, deixei os dois scripts independentes para facilitar a execução separada.
 
-
-
+Postagem no git
+Tivemos muita díficulade ao postar esse trabalho, foram dificuldades do começo ao fim, quando iamos postar o codespace não carregava.
 
 
 
