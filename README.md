@@ -43,4 +43,5 @@ Tivemos muita díficulade ao postar esse trabalho, foram dificuldades do começo
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/181f4983-ca1c-4be2-a8c8-1094e0d48fba" />
 
+<img width="932" height="577" alt="image" src="https://github.com/user-attachments/assets/fa12e7a3-f892-41ab-a7bd-6a4a07a391a7" />
 
