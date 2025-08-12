@@ -41,5 +41,6 @@ Tivemos muita díficulade ao postar esse trabalho, foram dificuldades do começo
 
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/181f4983-ca1c-4be2-a8c8-1094e0d48fba" />
 
 
